@@ -114,7 +114,7 @@ Visit [batchdrone.com](https://batchdrone.com) to explore the platform and reque
 
 ## About
 
-Built by [F² AI](https://fsquared.ai) in South Africa. Deployed globally on Google Cloud Platform.
+Built by [F² AI](https://fsquared.ai) . Deployed globally on Google Cloud Platform.
 
 ## License
 
